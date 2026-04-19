@@ -79786,7 +79786,7 @@ h=A.fE(A.h(l)+"/rsvp/",0,null)
 g=t.N
 f=A.aD(["Content-Type","application/json"],g,g)
 s=7
-return A.a0(A.aHB(h,B.cz.PZ(A.aD(["name",d.a.a,"attending",m.f,"guests_count",A.jv(i.a.a,null)],g,t.K),null),f).Gb(0,B.BY),$async$uw)
+return A.a0(A.aHB(h,B.cz.PZ(A.aD(["name",d.a.a,"attending",m.f,"guests",A.jv(i.a.a,null)],g,t.K),null),f).Gb(0,B.BY),$async$uw)
 case 7:k=b
 A.p_("Status Code: "+k.b)
 f=k
