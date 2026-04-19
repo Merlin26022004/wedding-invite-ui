@@ -79782,7 +79782,7 @@ s=1
 break}m.aa(new A.afM(m))
 p=4
 l="https://wedding-event-dn6h.onrender.com"
-h=A.fE(A.h(l)+"/rsvp/",0,null)
+h=A.fE(A.h(l)+"/rsvp",0,null)
 g=t.N
 f=A.aD(["Content-Type","application/json"],g,g)
 s=7
