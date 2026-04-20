@@ -3,11 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "19d8f8e10bf56ec0ed9b48d73deaf42c",
-"assets/AssetManifest.bin.json": "cbe22cd44e223f93f177fd632df55ecf",
-"assets/AssetManifest.json": "e96bee723b2c77437e376dec6b9ae575",
+const RESOURCES = {"assets/AssetManifest.bin": "1a0926a40e4bc0c9d248175a6e0bb01c",
+"assets/AssetManifest.bin.json": "a5778e15a2f08f9c01b22db088204f0c",
+"assets/AssetManifest.json": "b4f6ae1844d3d01d3808b4f3102a6047",
 "assets/assets/bg.jpg": "54de2b027ca245ccf4baf8474e82584e",
 "assets/assets/couple.png": "b2f70bc1bce31a6471e55460d60ab104",
+"assets/assets/J.png": "ea16d14d6f75a4fbebce13ad7a18e201",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "fcce23586838ba05e07cea3896510d1f",
 "assets/NOTICES": "d14b46048c94df61bc7ce7bc2f012a51",
@@ -26,9 +27,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "19d8f8e10bf56ec0ed9b48d73deaf42c
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "76667ec4b2263ba07491bb5c54b650be",
-"/": "76667ec4b2263ba07491bb5c54b650be",
-"main.dart.js": "41085dcf2ecbddcc08dc1fc854e0cac8",
+"index.html": "34a60980f578786c4f2b03bdaef8a1f9",
+"/": "34a60980f578786c4f2b03bdaef8a1f9",
+"main.dart.js": "f73e146943b0642cb56dce851498f5c7",
 "manifest.json": "6ebb4513e7df2e66205dbeda8a452901",
 "version.json": "e0a118feadb38a4783f9626b435fdebc"};
 // The application shell files that are downloaded before a service worker can
